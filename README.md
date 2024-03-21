@@ -1,6 +1,8 @@
 # AVL-Tree
 Python Graphviz AVLTree
 
+Data sets de las imágenes: https://www.kaggle.com/datasets/pavansanagapati/images-dataset
+
 Vs Code set up
 1. Descargar Graphviz: https://graphviz.org/
 2. Descomprimir o extraer la carpeta.zip descargada.
